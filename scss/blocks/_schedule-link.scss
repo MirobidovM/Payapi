@@ -22,4 +22,9 @@
   .schedule-link {
     display: none;
   }
+
+  .schedule-open {
+    display: block;
+    z-index: 2;
+  }
 }
